@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Piyush+Kumar;Technical+Lead+%7C+Distributed+Systems+%7C+Agentic+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Hey+there!+I'm+Piyush+Kumar+%F0%9F%91%8B;Distributed+Systems+Engineer;Agentic+AI+Builder+%F0%9F%A4%96;Cloud-Native+Java+Architect+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,12 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Technical Lead at Nokia** who architects **resilient distributed systems** and builds **Agentic AI workflows** that automate real enterprise processes — not demos, production.
+I'm a **Senior Java Engineer** at Nokia who architects **resilient distributed systems** at scale and integrates **Agentic AI** into real enterprise workflows — not prototypes, production.
 
-With **5+ years** across Nokia, Ciena, and TCS, I've shipped cloud-native microservices handling real-time telco workloads, built LLM-powered automation pipelines with LangChain & LangGraph, and led teams delivering secure, scalable software under pressure.
+Over the years across **Nokia, Ciena, and TCS**, I've designed cloud-native microservices handling real-time telecom workloads, built LLM-powered automation pipelines using LangChain, LangGraph & PydanticAI, and guided teams toward secure, maintainable, and scalable software delivery.
 
 ```yaml
-current_role: Technical Lead @ Nokia
+current_role: Senior Engineer @ Nokia
 focus_areas:
   - Distributed Microservices (Java 17 / Spring Boot)
   - Agentic AI & LLM Orchestration (PydanticAI / LangChain / LangGraph)
@@ -30,7 +30,7 @@ certification: AWS Certified Cloud Practitioner
 passion: System Design — LLD & HLD challenges for fun ⚡
 ```
 
-- 🔭 **Building:** LLM-driven autonomous workflows at Nokia using LangChain, LangGraph & PydanticAI — orchestrating intelligent network planning at scale
+- 🔭 **Building:** Agentic AI workflows at Nokia using LangChain, LangGraph & PydanticAI — automating intelligent network planning at scale
 - 🤝 **Open to:** Complex distributed system design challenges, Agentic AI collaborations, and high-throughput Spring Boot architectures
 - 🌱 **Exploring:** Multi-agent orchestration patterns with PydanticAI — type-safe, production-grade AI agents with structured validation
 - 💬 **Ask me about:** Java 17 · Spring Boot · Kafka · Kubernetes · Microservices · System Design (LLD/HLD) · Making LLMs do real work
