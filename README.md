@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Java Engineer** at Nokia who architects **resilient distributed systems** at scale and integrates **Agentic AI** into real enterprise workflows — not prototypes, production.
+I'm a **Technical Lead** at Nokia who architects **resilient distributed systems** at scale and integrates **Agentic AI** into real enterprise workflows — not prototypes, production.
 
 Over the years across **Nokia, Ciena, and TCS**, I've designed cloud-native microservices handling real-time telecom workloads, built LLM-powered automation pipelines using LangChain, LangGraph & PydanticAI, and guided teams toward secure, maintainable, and scalable software delivery.
 
