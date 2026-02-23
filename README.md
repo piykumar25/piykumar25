@@ -1,62 +1,182 @@
-<h1 align="center">Hi there, I'm Piyush! 👋</h1>
-<h3 align="center">Technical Lead | Distributed Systems Engineer | AI Integrator</h3>
+<div align="center">
 
-<p align="center">
-  I am a passionate software engineer specializing in building highly scalable, cloud-native Java architectures and bringing the power of Agentic AI into enterprise workflows. I thrive on solving complex backend challenges, crafting resilient distributed systems, and architecting LLM-driven solutions that actually work in production.
-</p>
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Piyush+Kumar;Technical+Lead+%7C+Distributed+Systems+%7C+Agentic+AI" alt="Typing SVG" /></a>
 
----
+<br/>
 
-### 💫 About Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-kumar-218848136)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piykumar05i@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piykumar25)
 
-* 🔭 **I'm currently working on:** Architecting fault-tolerant Java 17 microservices and developing autonomous, LLM-driven workflows that bridge traditional backends with next-gen AI.
-* 👯 **I'm looking to collaborate on:** High-performance Spring Boot applications, complex System Design (LLD/HLD) challenges, and cutting-edge Agentic AI solutions.
-* 🤝 **I'm looking for help with:** Pushing the boundaries of AI orchestration and deploying robust, type-safe LLM agents using frameworks like **PydanticAI**.
-* 🌱 **I'm currently learning:** Deepening my expertise in **LangGraph** and Agentic workflows to build reliable, multi-agent systems with strict structured data validation.
-* 💬 **Ask me about:** Java 17, Spring Boot, Microservices, Docker, Kubernetes, Apache Kafka, and optimizing PostgreSQL for high-throughput environments.
-* ⚡ **Fun fact:** I am an AWS Certified Cloud Practitioner who loves geeking out over optimal system architectures—and optimizing credit card reward structures!
+</div>
 
 ---
 
-### 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/piyush-kumar-218848136) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:piykumar05i@gmail.com) 
+## 🧑‍💻 About Me
+
+I'm a **Technical Lead at Nokia** who architects **resilient distributed systems** and builds **Agentic AI workflows** that automate real enterprise processes — not demos, production.
+
+With **5+ years** across Nokia, Ciena, and TCS, I've shipped cloud-native microservices handling real-time telco workloads, built LLM-powered automation pipelines with LangChain & LangGraph, and led teams delivering secure, scalable software under pressure.
+
+```yaml
+current_role: Technical Lead @ Nokia
+focus_areas:
+  - Distributed Microservices (Java 17 / Spring Boot)
+  - Agentic AI & LLM Orchestration (PydanticAI / LangChain / LangGraph)
+  - Cloud-Native Architecture (Docker / K8s / AWS / GCP)
+  - Event-Driven Systems (Apache Kafka)
+certification: AWS Certified Cloud Practitioner
+passion: System Design — LLD & HLD challenges for fun ⚡
+```
+
+- 🔭 **Building:** LLM-driven autonomous workflows at Nokia using LangChain, LangGraph & PydanticAI — orchestrating intelligent network planning at scale
+- 🤝 **Open to:** Complex distributed system design challenges, Agentic AI collaborations, and high-throughput Spring Boot architectures
+- 🌱 **Exploring:** Multi-agent orchestration patterns with PydanticAI — type-safe, production-grade AI agents with structured validation
+- 💬 **Ask me about:** Java 17 · Spring Boot · Kafka · Kubernetes · Microservices · System Design (LLD/HLD) · Making LLMs do real work
 
 ---
 
-### 💻 Tech Stack & Tools:
+## 🛠️ Tech Arsenal
 
-**Languages**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Frameworks & AI Orchestration**<br>
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+### ⚙️ Backend & Core
 
-**Cloud, DevOps & Architecture**<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2017-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Databases & Message Brokers**<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+</td>
+<td align="center" width="50%">
 
-**Version Control**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 AI & LLM Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</td>
+<td align="center">
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🧪 Testing & Quality
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+</td>
+<td align="center">
+
+### 🧩 Frontend & Tools
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20|%20OAuth2-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🧠 Core Expertise
+
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-0A66C2?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-4B0082?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design_(LLD/HLD)-DC143C?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-2F4F4F?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-FF6347?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-228B22?style=for-the-badge)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piykumar25&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piykumar25&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+## 🏆 GitHub Trophies
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=piykumar25&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</p>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=piykumar25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=piykumar25&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piykumar25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=piykumar25&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piykumar25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piykumar25&theme=tokyo-night&hide_border=true&area=true)](https://github.com/piykumar25)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=piykumar25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=piykumar25&icon=6&color=6)](https://visitcount.itsvg.in)
+
+### ⚡ *"I don't just write code — I design systems that scale, self-heal, and think."*
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
